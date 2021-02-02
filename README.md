@@ -18,11 +18,15 @@
     <img align="left" alt="Swillzy's Spotify" width="35px" src="https://raw.githubusercontent.com/swillzy/swillzy/main/spotify.svg?" />
   </a>
 </div>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 <a href="https://github.com/swillzy?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swillzy&layout=compact&card_width=1000&theme=buerfy&title_color=8f72db"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 <div style="text-align:center">
   <a href="https://facebook.com/uirian" target="_blank">
     <img align="left" alt="Swillzy's Facebook" width="35px" src="https://raw.githubusercontent.com/swillzy/swillzy/main/facebook.svg?" />
