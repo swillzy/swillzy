@@ -25,7 +25,9 @@
 &nbsp;
 
 
-<div style="text-align:center"><a href="https://dribbble.com/shots/4801105-Late-night-coding"><img align="center" src="https://github.com/swillzy/swillzy/blob/main/github.gif" /></a></div>
+<a href="https://dribbble.com/shots/4801105-Late-night-coding">
+  <img align="center" src="https://github.com/swillzy/swillzy/blob/main/github.gif"/>
+</a>
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -39,5 +41,5 @@
 
 
 <a href="https://github.com/swillzy?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swillzy&layout=compact&card_width=1000&theme=buerfy&title_color=8f72db"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swillzy&layout=compact&card_width=650&theme=buerfy&title_color=8f72db"/>
 </a>
