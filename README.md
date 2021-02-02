@@ -1,21 +1,21 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=swillzy.swillzy) [![Github](https://img.shields.io/github/followers/swillzy?label=Follow&style=social)](https://github.com/swillzy)
 
-<a href="https://discordapp.com/users/320346503568949248">
+<a href="https://discordapp.com/users/320346503568949248" target="_blank_>
   <img align="left" alt="Swillzy's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/santoswillc/">
+<a href="https://www.linkedin.com/in/santoswillc/" target="_blank_>
   <img align="left" alt="Swillzy's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/williansantosnt?si=vO7adXVwQ6ig9mazSF_JKg">
+<a href="https://open.spotify.com/user/williansantosnt?si=vO7adXVwQ6ig9mazSF_JKg" target="_blank_>
   <img align="left" alt="Swillzy's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://facebook.com/uirian">
+<a href="https://facebook.com/uirian" target="_blank_>
   <img align="left" alt="Swillzy's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://wa.me/5549999184109?text=Hey%2C%20Willian%21">
+<a href="https://wa.me/5549999184109?text=Hey%2C%20Willian%21" target="_blank_>
   <img align="left" alt="Swillzy's Whatsapp" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/whatsapp.svg" />
 </a>
-<a href="https://t.me/uiriansan">
+<a href="https://t.me/uiriansan" target="_blank_>
   <img align="left" alt="Swillzy's Telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/telegram.svg" />
 </a>
 
