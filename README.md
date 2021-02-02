@@ -24,7 +24,9 @@
 
 &nbsp;
 
-<img align="center" src="https://github.com/swillzy/swillzy/blob/main/github.gif" />
+
+<div style="text-align:center"><a href="https://dribbble.com/shots/4801105-Late-night-coding"><img align="center" src="https://github.com/swillzy/swillzy/blob/main/github.gif" /></a></div>
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
