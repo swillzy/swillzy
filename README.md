@@ -1,4 +1,4 @@
-<p align="center">
+<div style="text-align:center">
   <a href="https://facebook.com/uirian">
     <img align="left" alt="Swillzy's Facebook" width="35px" src="https://raw.githubusercontent.com/swillzy/swillzy/main/facebook.svg?" />
   </a>
@@ -17,7 +17,7 @@
   <a href="https://open.spotify.com/user/williansantosnt?si=vO7adXVwQ6ig9mazSF_JKg">
     <img align="left" alt="Swillzy's Spotify" width="35px" src="https://raw.githubusercontent.com/swillzy/swillzy/main/spotify.svg?" />
   </a>
-</p>
+</div>
 <br/><br/><br/><br/>
 <a href="https://github.com/swillzy?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swillzy&layout=compact&card_width=1000&theme=buerfy&title_color=8f72db"/>
