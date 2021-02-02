@@ -21,6 +21,10 @@
 <br/>
 <br/>
 <br/>
+  <img align="center" src="https://github.com/swillzy/swillzy/blob/main/banner.svg"/>
+<br/>
+<br/>
+<br/>
 <a href="https://github.com/swillzy?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swillzy&layout=compact&card_width=1000&theme=buerfy&title_color=8f72db"/>
 </a>
