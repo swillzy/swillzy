@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/santoswillc/" target="_blank">
     <img align="left" alt="Swillzy's Linkedin" width="35px" src="https://raw.githubusercontent.com/swillzy/swillzy/main/linkedin.svg?" />
   </a>
-  <a href="https://discordapp.com/users/320346503568949248" target="_blank">
-    <img align="left" alt="Swillzy's Discord" width="35px" src="https://raw.githubusercontent.com/swillzy/swillzy/main/discord.svg?" />
-  </a>
   <a href="https://open.spotify.com/user/williansantosnt?si=vO7adXVwQ6ig9mazSF_JKg" target="_blank">
     <img align="left" alt="Swillzy's Spotify" width="35px" src="https://raw.githubusercontent.com/swillzy/swillzy/main/spotify.svg?" />
   </a>
